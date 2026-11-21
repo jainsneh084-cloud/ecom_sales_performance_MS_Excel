@@ -40,6 +40,7 @@ An interactive Ecom Management Dashboard built using Microssoft Excel to analyze
 
 # 👩‍🦰Author
 -Email: jainsneh084@gmail.com
+
 -LinkedIn: https://www.linkedin.com/in/sneha-jain-0a7153254/
 
   
