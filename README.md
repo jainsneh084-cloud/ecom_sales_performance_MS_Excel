@@ -1,7 +1,7 @@
 # ECOM| Sales_Performance | Business_Analysis | MicroSoft Excel
 An interactive Ecom Management Dashboard built using Microssoft Excel to analyze customer behaviour, product category records, product quality performance, payment mode, and discount impact. This dashboard helps E-com manager monitor key performance indicators (KPIs) and make data-driven decisions.
 
-# Key Features
+# 🚀Key Features
 - ### 💸 Total Revenue
 - ### 📦 Total Orders
 - ### 🚚 Average Delivery Days
@@ -9,7 +9,7 @@ An interactive Ecom Management Dashboard built using Microssoft Excel to analyze
 - ### 📉 Interactive Discount Filter
 - ### 💸 Revenue By Region
 
-# Tools & Technologies
+# 🛠️Tools & Technologies
 - MicroSoft Excel
 - Data Cleaning
 - Pivot Table
@@ -19,9 +19,15 @@ An interactive Ecom Management Dashboard built using Microssoft Excel to analyze
 - Data Visualization
 - Dashboard
 
-# Dashboard Preview
-! [Dashboard] (
+# 📷Dashboard Preview
+! [Dashboard] (ecom_sales_performance_MS_Excel/Ecom_Dashboard.png)
 
+# 📈 KPIs Included
+- Total Views
+- Total Orders
+- Total Quantity Sold
+- Average Customer Ratings
+- Average Delivery Time
 
 # 🎯 Skills Demonstrated
 -Data Cleaning
