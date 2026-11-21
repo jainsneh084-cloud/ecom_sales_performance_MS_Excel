@@ -30,17 +30,17 @@ An interactive Ecom Management Dashboard built using Microssoft Excel to analyze
 - Average Delivery Time
 
 # 🎯 Skills Demonstrated
--Data Cleaning
--Data Transformation
--Data Modeling
--Excel Calculations
--Dashboard Design
--Business Intelligence
--Data Visualization
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- Excel Calculations
+- Dashboard Design
+- Business Intelligence
+- Data Visualization
 
 # 👩‍🦰Author
--Email: jainsneh084@gmail.com
+- Email: jainsneh084@gmail.com
 
--LinkedIn: https://www.linkedin.com/in/sneha-jain-0a7153254/
+- LinkedIn: https://www.linkedin.com/in/sneha-jain-0a7153254/
 
   
